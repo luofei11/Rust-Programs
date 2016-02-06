@@ -1,0 +1,4 @@
+[package]
+name = "graph"
+version = "0.1.0"
+authors = ["Fei(Flammy) Luo <luofeithu@foxmail.com>"]
